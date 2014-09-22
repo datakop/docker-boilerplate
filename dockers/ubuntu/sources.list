@@ -1,0 +1,8 @@
+#############################################################
+################### OFFICIAL UBUNTU REPOS ###################
+#############################################################
+
+###### Ubuntu Main Repos
+deb http://ru.archive.ubuntu.com/ubuntu/ trusty main 
+deb-src http://ru.archive.ubuntu.com/ubuntu/ trusty main
+
